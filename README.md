@@ -4,9 +4,10 @@
 
 ## 🌐 Live Site
 
-### → [**ae-moments.vercel.app**](https://ae-moments.vercel.app/)
+### → [**ae-moments.co.il**](https://ae-moments.co.il/)
 
-[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel&logoColor=white)](https://ae-moments.vercel.app/)
+[![Live on ae-moments.co.il](https://img.shields.io/badge/Live-ae--moments.co.il-D4AF37?style=for-the-badge)](https://ae-moments.co.il/)
+[![Hosted on Vercel](https://img.shields.io/badge/Hosted-Vercel-000000?logo=vercel&logoColor=white)](https://ae-moments.vercel.app/)
 
 ---
 
