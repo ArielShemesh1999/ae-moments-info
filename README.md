@@ -4,6 +4,10 @@
 
 **Live:** [www.ae-moments.co.il](https://www.ae-moments.co.il)
 
+<p align="center">
+  <img src="assets/preview.webp" alt="ae-moments — the live site" width="100%">
+</p>
+
 `Vite 5` · `TypeScript 5.6` · `React 18` · `Tailwind CSS 3.4` · `Framer Motion 11` · `GSAP` · `Vercel` serverless (`fra1`) · `Cloudflare Turnstile` · `Cloudflare Worker` + `D1` · `Vercel KV` · `Resend`
 
 ## Serving three languages without three builds
